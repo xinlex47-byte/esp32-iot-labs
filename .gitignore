@@ -1,0 +1,15 @@
+# Credentials: never commit these
+secrets.h
+**/secrets.h
+
+# Build output
+build/
+*.bin
+*.elf
+*.map
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
